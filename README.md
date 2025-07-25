@@ -6,7 +6,7 @@
 
 A guide on how to **download** and **install** [uMod](https://umod.org/) (formerly Oxide) onto your [Rust](https://rust.facepunch.com/) game server.
 
-This guide should work for **Windows** and **Linux** users. The only differences between these operating systems within this guide are how paths are formatted and usage of folders (Windows) and directories (Linux).
+This guide should work for **Windows** and **Linux** users. The only differences between these operating systems within this guide are how folder and file paths are formatted and usage of terms like *folders* (Windows) and *directories* (Linux).
 
 Adding uMod to your Rust server will allow you to install many mods and plugins onto your server! There is a wide range of Rust plugins for uMod available [here](https://umod.org/plugins?page=1&sort=title&sortdir=asc&categories=rust).
 
