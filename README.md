@@ -25,7 +25,7 @@ Adding uMod to your Rust server will allow you to install many mods and plugins 
 ## Requirements
 * A Rust game server you can connect to
 * Access to upload or move files on the Rust server (e.g., SFTP/FTP clients such as [FileZilla](https://filezilla-project.org/))
-* A program to uncompress and extract files from an archive (e.g., [7-Zip(https://www.7-zip.org/)])
+* A program to uncompress and extract files from an archive (e.g., [7-Zip](https://www.7-zip.org/))
 
 ## Back Up Your Server Files & Saves!
 Although it is very unlikely installing uMod onto your server will cause issues with your map saves, we still recommend **backing up** your server files and map servers!
